@@ -1,0 +1,6 @@
+02.Mettre la boutique à jour · 10 min
+• Affiche le nom et la ville de la boutique.
+• Ajoute la propriété devise avec la valeur "MAD".
+• Passe ouverte à false et affiche le statut « Fermée » à partir de cette valeur.
+Indice. Accède aux propriétés par leur nom et utilise une condition pour choisir le statut.
+À vérifier. La ville est « Youssoufia », la devise est "MAD" et le statut affiché est « Fermée ».
