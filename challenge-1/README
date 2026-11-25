@@ -1,6 +1,3 @@
-01. Organiser les catégories ·
-• Affiche la première catégorie et le nombre initial de catégories.
-• Ajoute « Classement » à la fin, puis remplace « Accessoires » par « Bureau ».
-• Retire la dernière catégorie et affiche le tableau final.
-Indice. Appuie-toi sur les index, length, push() et pop().
-À vérifier. Première catégorie « Papeterie », total initial 3, puis tableau final ["Papeterie", "Bureau", "Sacs"].
+push() : we use it to add an item to the end of an array.
+pop() : we use it to remove the last item in the array , it changes the original array.
+splice() : we use for remove or add something to an array, it changes the original array.

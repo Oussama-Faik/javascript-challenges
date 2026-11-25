@@ -1,0 +1,1 @@
+some() :  is a method we use to check if at least one element in an array matches a specific condition.It returns a Boolean value: true or false

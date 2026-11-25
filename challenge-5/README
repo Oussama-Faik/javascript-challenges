@@ -1,0 +1,1 @@
+map : a method we use to make a new array , after applying a function to each element of an existing array. It returns a new array without changing the original one.

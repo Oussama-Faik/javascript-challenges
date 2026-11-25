@@ -1,0 +1,1 @@
+every() :  is a method we use to check if ALL elements in an array match a specific condition.It returns a Boolean value: true or false
